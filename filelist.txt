@@ -1,0 +1,4 @@
+badidea
+goodidea
+readme
+test7
