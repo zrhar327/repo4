@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdasdasassjcojkcoicj
+=======
+bbbfd
+>>>>>>> feature-c
